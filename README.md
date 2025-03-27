@@ -22,6 +22,7 @@ The dataset contains vehicle listings from eBay with the following key attribute
 - *Data Validation*: Automated checks using Great Expectations
 - *Quality Metrics*: Calculation of completeness, validity, uniqueness, and consistency scores
 - *Monitoring Dashboard*: Visualizations of key quality indicators
+![image](https://github.com/user-attachments/assets/42ae23df-b67b-422c-a687-ccfd28625666)
 
 ## Tools
 
